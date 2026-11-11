@@ -1,0 +1,1 @@
+<footer class="footer"><div class="wrap"><p><strong>TEEPRINT</strong> — Une solution TSHIRTEE · Atelier basé à Carcassonne, Aude.</p><p>Personnalisation textile pour professionnels, clubs et associations. <a href="<?php echo esc_url(home_url('/politique-de-confidentialite/')); ?>">Confidentialité</a></p></div></footer><?php wp_footer(); ?></body></html>
